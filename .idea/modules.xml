@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud.iml" filepath="$PROJECT_DIR$/cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-hystrix/cloud-hystrix.iml" filepath="$PROJECT_DIR$/cloud-hystrix/cloud-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-hystrix-dashboard/cloud-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/cloud-hystrix-dashboard/cloud-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/compute-service/compute-service.iml" filepath="$PROJECT_DIR$/compute-service/compute-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurake-feign/eurake-feign.iml" filepath="$PROJECT_DIR$/eurake-feign/eurake-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurake-ribbon/eurake-ribbon.iml" filepath="$PROJECT_DIR$/eurake-ribbon/eurake-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurake-server/eurake-server.iml" filepath="$PROJECT_DIR$/eurake-server/eurake-server.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloud" />
+        <module name="cloud-hystrix" />
+        <module name="cloud-hystrix-dashboard" />
+        <module name="compute-service" />
+        <module name="eurake-feign" />
+        <module name="eurake-ribbon" />
+        <module name="eurake-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloud" target="1.5" />
+      <module name="cloud-eurake" target="1.8" />
+      <module name="cloud-hystrix" target="1.8" />
+      <module name="cloud-hystrix-dashboard" target="1.8" />
+      <module name="cloud-service" target="1.8" />
+      <module name="compute-service" target="1.8" />
+      <module name="eurake-feign" target="1.8" />
+      <module name="eurake-ribbon" target="1.8" />
+      <module name="eurake-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
