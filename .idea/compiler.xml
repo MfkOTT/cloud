@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="cloud" />
+        <module name="cloud-config-client" />
+        <module name="cloud-config-server" />
         <module name="cloud-hystrix" />
         <module name="cloud-hystrix-dashboard" />
         <module name="compute-service" />
@@ -17,6 +19,8 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="cloud" target="1.5" />
+      <module name="cloud-config-client" target="1.8" />
+      <module name="cloud-config-server" target="1.8" />
       <module name="cloud-eurake" target="1.8" />
       <module name="cloud-hystrix" target="1.8" />
       <module name="cloud-hystrix-dashboard" target="1.8" />

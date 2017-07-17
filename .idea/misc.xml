@@ -12,6 +12,8 @@
         <option value="$PROJECT_DIR$/eurake-ribbon/pom.xml" />
         <option value="$PROJECT_DIR$/cloud-hystrix/pom.xml" />
         <option value="$PROJECT_DIR$/cloud-hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-config-client/pom.xml" />
       </list>
     </option>
   </component>

@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/cloud.iml" filepath="$PROJECT_DIR$/cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-config-client/cloud-config-client.iml" filepath="$PROJECT_DIR$/cloud-config-client/cloud-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-config-server/cloud-config-server.iml" filepath="$PROJECT_DIR$/cloud-config-server/cloud-config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-hystrix/cloud-hystrix.iml" filepath="$PROJECT_DIR$/cloud-hystrix/cloud-hystrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-hystrix-dashboard/cloud-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/cloud-hystrix-dashboard/cloud-hystrix-dashboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/compute-service/compute-service.iml" filepath="$PROJECT_DIR$/compute-service/compute-service.iml" />
